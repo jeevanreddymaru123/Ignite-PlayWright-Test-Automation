@@ -1,0 +1,21 @@
+[ {
+  "uid" : "ad7c9e722c0d412e",
+  "name" : "DNAAPP-357_ABC Fitness Negative Login Scenario",
+  "time" : {
+    "start" : 1737711416792,
+    "stop" : 1737711427992,
+    "duration" : 11200
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d9739102d729b434",
+  "name" : "DNAAPP-341_ABC Fitness Login Scenario + Logout",
+  "time" : {
+    "start" : 1737711395595,
+    "stop" : 1737711416747,
+    "duration" : 21152
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

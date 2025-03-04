@@ -1,0 +1,51 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "chromium",
+    "children" : [ {
+      "name" : "Login.spec.ts",
+      "children" : [ {
+        "name" : "User Login/Logout flow @e2e",
+        "children" : [ {
+          "name" : "DNAAPP-341_ABC Fitness Login Scenario + Logout",
+          "uid" : "d9739102d729b434",
+          "parentUid" : "2857d60c95a4c4827a53b866089f6eed",
+          "status" : "passed",
+          "time" : {
+            "start" : 1737711395595,
+            "stop" : 1737711416747,
+            "duration" : 21152
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "chromium" ]
+        }, {
+          "name" : "DNAAPP-357_ABC Fitness Negative Login Scenario",
+          "uid" : "ad7c9e722c0d412e",
+          "parentUid" : "2857d60c95a4c4827a53b866089f6eed",
+          "status" : "passed",
+          "time" : {
+            "start" : 1737711416792,
+            "stop" : 1737711427992,
+            "duration" : 11200
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "chromium" ]
+        } ],
+        "uid" : "2857d60c95a4c4827a53b866089f6eed"
+      } ],
+      "uid" : "c03c08729bfdf424a2790f1a8a2e18df"
+    } ],
+    "uid" : "36c900977e1d8b81a2c6893cc82bfc01"
+  } ]
+}

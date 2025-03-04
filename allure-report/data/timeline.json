@@ -1,0 +1,47 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "BHAVNAWKS642",
+    "children" : [ {
+      "name" : "BHAVNAWKS642-40080-playwright-worker-0",
+      "children" : [ {
+        "name" : "DNAAPP-341_ABC Fitness Login Scenario + Logout",
+        "uid" : "d9739102d729b434",
+        "parentUid" : "dbd9c3e41ed0cfde64d670a2ea931b4f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1737711395595,
+          "stop" : 1737711416747,
+          "duration" : 21152
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "DNAAPP-357_ABC Fitness Negative Login Scenario",
+        "uid" : "ad7c9e722c0d412e",
+        "parentUid" : "dbd9c3e41ed0cfde64d670a2ea931b4f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1737711416792,
+          "stop" : 1737711427992,
+          "duration" : 11200
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chromium" ]
+      } ],
+      "uid" : "dbd9c3e41ed0cfde64d670a2ea931b4f"
+    } ],
+    "uid" : "4e9f5f5c84560cd1fdbe656897a7a42b"
+  } ]
+}

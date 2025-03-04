@@ -1,0 +1,10 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="4.224147">
+<testsuite name="xrayIntegration.spec.ts" timestamp="2024-04-16T13:02:49.390Z" hostname="firefox" tests="1" failures="0" skipped="0" time="2.084" errors="0">
+<testcase name="Playwright automation integrate with x ray" classname="xrayIntegration.spec.ts" time="2.084">
+<system-err>
+<![CDATA[Error adding comment. Status:  [36m[Function: status][39m
+]]>
+</system-err>
+</testcase>
+</testsuite>
+</testsuites>
